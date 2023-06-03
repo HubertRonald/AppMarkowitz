@@ -1,0 +1,11 @@
+.venv
+.env
+.git
+.gitignore
+.dockerignore
+.config
+*.ipynb
+.pytest_cache/
+docs/
+Dockerfile
+docker-compose.yml
