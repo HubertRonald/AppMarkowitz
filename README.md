@@ -1,3 +1,8 @@
+[![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/dev/peps/pep-0537/#schedule-first-bugfix-release)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![GitHub last commit](https://img.shields.io/github/last-commit/hubertronald/TemplateDockerDjango?style=flat-square)
+[![MIT](https://img.shields.io/github/license/hubertronald/TemplateDockerDjango?style=flat-square)](LICENSE)
+
 # Optimización de Portafolio en Python - Modelo de Markowitz
 
 El desarollo contenida en este repositorio está orientado hacia la [Teoría del portafolio moderna - MPT](https://es.wikipedia.org/wiki/Teor%C3%ADa_del_portafolio_moderna)  la cual si bien en un inicio implica sólo la minimización de la varianza de un protafolio seleccionado (Modelo de Markovitz), acá se incluye además la maximización del rendimiento del mismo por medio del [Ratio de Sharpe](https://es.wikipedia.org/wiki/Ratio_de_Sharpe).
@@ -40,9 +45,9 @@ El punto donde la frontera eficiente cambia de convexa a cóncava es donde la m�
 
 $$
 \begin{aligned}
-\min\limits_{w}     &\>\>\>\>\>\> \dfrac{1}{2}w^T\Sigma w \\
-s.t.                &\>\>\>\>\>\> w^r=\mu_p \\
-                    &\>\>\>\>\>\> \textbf{1}^Tw = \textbf{1} \\
+\min\limits_{w}     &\textbf{ }\textbf{ }\textbf{ }\textbf{ } \dfrac{1}{2}w^T\Sigma w \\
+s.t.                &\textbf{ }\textbf{ }\textbf{ }\textbf{ } w^r=\mu_p \\
+                    &\textbf{ }\textbf{ }\textbf{ }\textbf{ } \textbf{1}^Tw = \textbf{1} \\
 \end{aligned}
 $$
 
@@ -56,8 +61,8 @@ Siendo $r_f$ es la tasa libre de riesgo, como por ejemplo los bonos del tesoro d
 
 $$
 \begin{aligned}
-\max\limits_{w}     &\>\>\>\>\>\> \dfrac{w^T\bar{r}-r_f}{w^T\Sigma w} \\
-s.t.                 &\>\>\>\>\>\> \textbf{1}^Tw = \textbf{1} \\
+\max\limits_{w}     &\textbf{ }\textbf{ }\textbf{ }\textbf{ } \dfrac{w^T\bar{r}-r_f}{w^T\Sigma w} \\
+s.t.                 &\textbf{ }\textbf{ }\textbf{ }\textbf{ } \textbf{1}^Tw = \textbf{1} \\
 \end{aligned}
 $$
 
