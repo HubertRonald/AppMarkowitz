@@ -5,7 +5,7 @@
 
 # Optimización de Portafolio en Python - Modelo de Markowitz
 
-El desarollo contenida en este repositorio está orientado hacia la [Teoría del portafolio moderna - MPT](https://es.wikipedia.org/wiki/Teor%C3%ADa_del_portafolio_moderna)  la cual si bien en un inicio implica sólo la minimización de la varianza de un protafolio seleccionado (Modelo de Markovitz), acá se incluye además la maximización del rendimiento del mismo por medio del [Ratio de Sharpe](https://es.wikipedia.org/wiki/Ratio_de_Sharpe).
+El desarollo contenido en este repositorio está orientado hacia la [Teoría del portafolio moderna - MPT](https://es.wikipedia.org/wiki/Teor%C3%ADa_del_portafolio_moderna)  la cual si bien en un inicio implica sólo la minimización de la varianza de un protafolio seleccionado (Modelo de Markovitz), acá se incluye además la maximización del rendimiento del mismo por medio del [Ratio de Sharpe](https://es.wikipedia.org/wiki/Ratio_de_Sharpe).
 
 
 ## El Problema del Portafolio Media-Varianza
