@@ -1,5 +1,7 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/dev/peps/pep-0537/#schedule-first-bugfix-release)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+[![Alpaca](https://img.shields.io/badge/Powered%20by-Alpaca%20Markets-yellow.svg?style=flat-square)](https://alpaca.markets/)
+[![Data Hub](https://img.shields.io/badge/Powered%20by-DataHub-orange.svg?style=flat-square)](https://datahub.io/core/s-and-p-500-companies)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hubertronald/TemplateDockerDjango?style=flat-square)
 [![MIT](https://img.shields.io/github/license/hubertronald/TemplateDockerDjango?style=flat-square)](LICENSE)
 
